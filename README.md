@@ -1,15 +1,6 @@
 # Themera
 
 ## Latest Version: v2.1.0
-
-Themera is currently available in compiled form for:  
-
-#### Windows
-[<img src=https://github.com/definite-d/Themera/blob/v2/res/download.png width=35%>](https://github.com/definite-d/Themera/releases/latest)
-
-#### Linux
-A Linux version (AppImage) is available [here](https://github.com/blabla-labALT/Themera-for-Linux), thanks to [blabla_lab](https://github.com/blabla-labALT).
-
 ___________________________________________________________________________________
 
 ## What's Themera?
